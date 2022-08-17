@@ -1,0 +1,13 @@
+{
+    "name": "Bottus",
+    "description": " Whatsapp bot.",
+    "keywords": [
+        "whatsapp",
+        "bot"
+    ],
+    "stack": "container",
+    "env": {
+        "ASENA_SESSION": {
+            "description": "Enter whatsapp web session.",
+            "required": false
+        }
